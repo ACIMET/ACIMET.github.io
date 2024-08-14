@@ -3145,7 +3145,7 @@
 			margin: 0;
 			padding: 0;
 			position: absolute;
-			top: 0;
+			top: -0.5em;
 			color: #0083be;
 			font-size: 1.75em;
 			text-transform: none;
